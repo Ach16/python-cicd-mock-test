@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # A sample Python project
 
 ![Python Logo](https://www.python.org/static/community_logos/python-logo.png "Sample inline image")
@@ -37,3 +38,6 @@ may be appropriate.
 [rst]: http://docutils.sourceforge.net/rst.html
 [md]: https://tools.ietf.org/html/rfc7764#section-3.5 "CommonMark variant"
 [md use]: https://packaging.python.org/specifications/core-metadata/#description-content-type-optional
+=======
+# python-cicd-mock-test
+>>>>>>> 66e4969543aa3d064dbf5589734f0bfa63bace06
